@@ -4,7 +4,7 @@ Raspberry Pi Pico based, macro keyboard for F13-F24.
 
 ## Configuration
 
-Buttons must be connected to 3V3OUT pin and any digital pins. In default, I connected where the pins down below, I chose them for make my PCB more tidy.
+Buttons must be connected to 3V3OUT pin and any digital pins. By default, I connected where the pins down below, I chose them for making my PCB more tidy.
 
 **Default Pins:** _GP0, GP1, GP3, GP4, GP6, GP7, GP9, GP10, GP13, GP14, GP15, GP16_
 
