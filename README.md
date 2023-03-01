@@ -16,8 +16,9 @@ Buttons must be connected to 3V3OUT pin and any digital pins. In default, I conn
 
 *   [Adafruit CircuitPython Driver](https://circuitpython.org/board/raspberry_pi_pico/)
 
-After you setup driver, you need to change the "code.py" where in Pico with in GitHub one. You can change the pins from code.py as you wish.
+After you setup driver, you need to change the "code.py" where in Pico with in GitHub one. You can change the pins from code.py as you wish. 
 
+<!--- Don't upload the pdf to Raspberry Pi Pico, you can print the pdf file to a coated paper and make your own PCB at home.  --->
 ## Pictures
 
 ![](https://user-images.githubusercontent.com/70312743/222154088-5d57a958-5b8c-4ff2-a086-e8e1aeb22975.JPG)
