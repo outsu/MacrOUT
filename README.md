@@ -20,8 +20,8 @@ After you setup driver, you need to change the "code.py" where in Pico with in G
 
 ## Pictures
 
-![](https://user-images.githubusercontent.com/70312743/222154087-ea752fe5-423b-4a17-b048-b385952c18ee.JPG)
-
 ![](https://user-images.githubusercontent.com/70312743/222154088-5d57a958-5b8c-4ff2-a086-e8e1aeb22975.JPG)
+
+![](https://user-images.githubusercontent.com/70312743/222154087-ea752fe5-423b-4a17-b048-b385952c18ee.JPG)
 
 ![](https://user-images.githubusercontent.com/70312743/222154089-e8865f76-0378-4048-92f7-daa14ee4a9dc.JPG)
