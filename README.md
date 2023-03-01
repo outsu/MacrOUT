@@ -15,3 +15,5 @@ Buttons must be connected to 3V3OUT pin and any digital pins. In default, I conn
 ### Requirements
 
 *   [Adafruit CircuitPython Driver](https://circuitpython.org/board/raspberry_pi_pico/)
+
+After you setup driver, you need to change the "code.py" where in Pico with in GitHub one. You can change the pins from code.py as you wish.
